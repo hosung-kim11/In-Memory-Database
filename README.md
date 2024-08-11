@@ -1,2 +1,3 @@
-# Redis-Clone
-Clone of Redis using Go
+# In-Memory Database
+In-Memory Database inspired by Redis
+
